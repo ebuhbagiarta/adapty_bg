@@ -1,0 +1,18 @@
+# Flutter/Dart/Pub related
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+pubspec.lock
+
+# Assets (if you want to ignore the entire assets folder)
+assets/
+# Or specific files
+assets/fallback_android.json
+
+# Other common ignores
+*.log
+*.DS_Store
