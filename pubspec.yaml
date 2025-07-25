@@ -30,7 +30,6 @@ flutter:
   uses-material-design: true
 
 assets:
-    - flutter_assets/ #assets/
     - assets/android_3_8_0_fallback.json
     #- assets/android_3_8_0_fallback.json
     #- assets/

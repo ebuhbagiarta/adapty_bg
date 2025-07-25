@@ -32,7 +32,7 @@ class PurchasesObserver implements AdaptyUIPaywallsEventsObserver, AdaptyUIOnboa
 
       if (!isActivated) {
         await Adapty().activate(
-          configuration: AdaptyConfiguration(apiKey: 'yourapikey')
+          configuration: AdaptyConfiguration(apiKey: 'YOUR_ADAPTY_KEY')
             ..withLogLevel(AdaptyLogLevel.debug)
             ..withObserverMode(false)
             ..withCustomerUserId(null)
