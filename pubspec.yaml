@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  adapty_flutter: ^3.8.4
+  adapty_flutter: ^3.11.0
+
   
   cupertino_icons: ^1.0.2
   shared_preferences: ^2.0.15
